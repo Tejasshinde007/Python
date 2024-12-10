@@ -1,5 +1,5 @@
 # os module
-import os
+# import os
 
 # os.remove("tejas.txt")  # it is used to remove file from system
 
@@ -8,4 +8,4 @@ import os
 # os.mkdir("Path name")   # used to create dictory in the current director
 # os.mkdir("D:Movies")
 
-os.path.join("E:","Movies1")
+# os.path.join("E:","Movies1")  # used to create directory in another file
