@@ -1,0 +1,6 @@
+2000.0 | Balance: 3000.0
+Deposit - 2000.0 | Balance: 3000.0
+Deposit - 25000.0 | Balance: 35000.0
+Withdraw - 2000.0 | Balance: 8000.0
+Withdraw - 200.0 | Balance: 9800.0
+Deposit - 200.0 | Balance: 10200.0

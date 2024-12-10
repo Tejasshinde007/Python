@@ -1,0 +1,2 @@
+Deposit - 2000.0 | Balance: 52000.0
+Deposit - 2000.0 | Balance: 27000.0

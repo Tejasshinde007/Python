@@ -1,4 +1,4 @@
-# Class:-Class is a blueprint or code template for object creation.
+# Class:-Class is a blueprint or code template for object creation.it is uder define DS that binds datatmembers,methods into single init
 
 # Object: An object is an instance of a class. It is a collection of attributes (variables) and methods. We use the object of a class to perform actions.
 

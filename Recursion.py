@@ -94,11 +94,11 @@
 #         return n%10 + sum_digit(n//10)
     
 # print(sum_digit(1011))
-    
-        
 
 
+# Cube of number using lambda function
 
-
+# a=lambda x:x**3
+# print(a(4))
 
 
